@@ -1,0 +1,7 @@
+HOW TO FISH — OFFLINE SOLO TOOL
+
+Run HowToFishTrainer-InputFix.exe from this folder. Keep all files together. game-path.txt points to this computer's game installation.
+
+While the trainer patch is active, it disables the game's online lobby creation, online lobby joining, friend joining, and invite joining entry points. The offline solo path that connects to localhost remains available. Steam itself may remain online; this does not disable networking for other apps.
+
+Steam and the game must be installed. .NET 8 Windows Desktop Runtime is required. The original Assembly-CSharp.dll is backed up before patching and restored when the game closes.

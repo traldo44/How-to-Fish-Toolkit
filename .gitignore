@@ -1,0 +1,6 @@
+**/bin/
+**/obj/
+**/HowToFishTrainer.log
+**/Assembly-CSharp.dll
+**/Assembly-CSharp.dll.solo-backup
+release/**/game-path.txt
